@@ -1,7 +1,7 @@
 # Operator Degeneration, Phase-Lag Instabilities, and Multiscale Affine-Wave Intensification in High-Reynolds 2D Incompressible Flows
 
 ![Views](https://komarev.com/ghpvc/?username=h5rsn6dvp8-beep-navier-stokes-research&label=Paper%20Views&color=0e75b6&style=flat-square)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
+[![Paper](https://img.shields.io/badge/Format-13--Page%20PDF-red.svg?style=flat-square)](./navier_stokes.pdf)
 [![Workstation](https://img.shields.io/badge/Workstation-NAVIERMATH%20v4.0-purple.svg?style=flat-square)](#)
 
 **Author:** Muhammed Sefa Süt  
@@ -33,11 +33,11 @@ While idealized inviscid fluid theory allows forced wave packets to grow toward 
 
 ---
 
-### 🖥️ Interactive Workstation: `NAVIERMATH v4.0`
+### 🖥️ Computational Methodology Summary (`NAVIERMATH v4.0`)
 
-This repository accompanies **`NAVIERMATH v4.0`**, combining:
-- **Offline Verification Suite (Python):** Staggered MAC Chorin projection solver (`NumPy`, `SciPy.sparse.linalg.splu`) validated against the Ghia et al. (1982) benchmark ($1.11\%$ relative $L^2$ error at $128 \times 128$) and multi-seed `PyTorch` FNO extrapolation tests.
-- **Browser-Based Interactive PDE Simulator (HTML5 Canvas / ES6):** Real-time dual-twin cavity simulation with click-based wave-packet injection, predictability horizon sweeps, isotropic energy spectra $E(k)$, and CSV telemetry export.
+This repository hosts the full research paper and benchmark figures generated via the **`NAVIERMATH v4.0`** verification framework, which combines:
+- **Staggered MAC Chorin Projection Solver:** Validated against the steady-state Ghia et al. (1982) cavity benchmark ($1.11\%$ relative $L^2$ error at $128 \times 128$ resolution).
+- **Multi-Seed Fourier Neural Operator (FNO) Evaluation:** Trained across five initialization seeds ($s \in \{11, 23, 37, 42, 89\}$) to quantify extrapolation breakdown beyond spectral cutoffs.
 
 ---
 
