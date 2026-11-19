@@ -1,14 +1,14 @@
 # Operator Degeneration, Phase-Lag Instabilities, and Multiscale Affine-Wave Intensification in High-Reynolds 2D Incompressible Flows
 
 ![Views](https://komarev.com/ghpvc/?username=h5rsn6dvp8-beep-navier-stokes-research&label=Paper%20Views&color=0e75b6&style=flat-square)
-[![Paper](https://img.shields.io/badge/Format-13--Page%20PDF-red.svg?style=flat-square)](GOOGLE_DRIVE_LINKIN)
+[![Paper](https://img.shields.io/badge/Format-13--Page%20PDF-red.svg?style=flat-square)](https://drive.google.com/file/d/114yd5zFzzYzF4Rx9zmftWaUReDKnbaxQ/view?usp=sharing)
 [![Workstation](https://img.shields.io/badge/Workstation-NAVIERMATH%20v4.0-purple.svg?style=flat-square)](#)
 
-> **📱 Mobile & In-App Browser Users:** GitHub's mobile preview only displays the first page of PDF files. To read all 13 pages smoothly in full screen without downloading issues, **[tap here to open the complete PDF](GOOGLE_DRIVE_LINKIN)**.
+> **📱 Mobile & In-App Browser Users:** GitHub's mobile preview only displays the first page of PDF files. To read all 13 pages smoothly in full screen without downloading issues, **[tap here to open the complete PDF](https://drive.google.com/file/d/114yd5zFzzYzF4Rx9zmftWaUReDKnbaxQ/view?usp=sharing)**.
 
 **Author:** Muhammed Sefa Süt  
 **Field:** Partial Differential Equations (PDEs), Computational Fluid Dynamics (CFD), Scientific Machine Learning (SciML)  
-**Full Paper:** [Read the Full 13-Page Research Paper (PDF)](GOOGLE_DRIVE_LINKIN) | [GitHub Copy](./navier_stokes.pdf)
+**Full Paper:** [Read the Full 13-Page Research Paper (PDF)](https://drive.google.com/file/d/114yd5zFzzYzF4Rx9zmftWaUReDKnbaxQ/view?usp=sharing) | [GitHub Copy](./navier_stokes.pdf)
 ---
 
 ### 📌 Overview & Core Contributions
